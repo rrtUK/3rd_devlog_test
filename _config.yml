@@ -1,0 +1,11 @@
+# basic info
+title: 3rd devlog test, 5th total test
+author: red bullion
+email: r3d@redbullion.com
+description: attempt to replicate devlog in van same as sf devlog
+twitter_username: tbd+rrtUK
+github_username:  rrtUK
+
+# Build settings
+markdown: kramdown
+theme: minima
